@@ -1,0 +1,13 @@
+Thank you for downloading the WooCommerce extension My Catalog Products.
+
+The catalog options are located in the WooCommerce -> Settings -> Catalog page. 
+You can activate the catalog functionality by click on the 'enable catalog products' checkbox
+You need to set the Call to action located in the Catalog Settings.
+
+You can style the call to action by targeting the catalog-product css class. 
+.catalog-product {}
+
+If you need any help, or you are having problems please contact me at
+milo@bejda.com
+
+You can visit my site at Bejda.com
